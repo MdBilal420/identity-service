@@ -1,6 +1,0 @@
-{
-    "Parameters": {
-        "firestoreCred": "Add Your Firestore Credentials here",
-        "environment": "DEVELOPMENT"
-    }
-}
